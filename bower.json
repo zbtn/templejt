@@ -16,5 +16,6 @@
     "tests"
   ],
   "dependencies": {
+    "susy": "^2.2.12"
   }
 }
