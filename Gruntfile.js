@@ -21,6 +21,7 @@ module.exports = function(grunt) {
                     ]
                 },
                 options: {
+		    offline: true,
                     watchTask: true,
                     server: './app/public'
                 }
